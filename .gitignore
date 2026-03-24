@@ -8,5 +8,4 @@
 .DS_Store
 
 # Large raw data artifacts (too big for regular GitHub pushes)
-b22cs038_prob1/data/prob_1_data.zip
 b22cs038_prob1/data/raw/
