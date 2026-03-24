@@ -1,0 +1,1587 @@
+==================================================
+CSL 7640 - PROBLEM 1 EVALUATION REPORT
+==================================================
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim50_win2.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - monitor (Similarity: 0.4579)
+ - contributing (Similarity: 0.4458)
+ - sessions (Similarity: 0.4351)
+ - representations (Similarity: 0.4315)
+ - positive (Similarity: 0.4166)
+
+Top 5 nearest neighbors for 'student':
+ - students (Similarity: 0.4515)
+ - long (Similarity: 0.4324)
+ - holding (Similarity: 0.4262)
+ - facilitated (Similarity: 0.4233)
+ - scholar (Similarity: 0.4170)
+
+Top 5 nearest neighbors for 'phd':
+ - residence (Similarity: 0.4461)
+ - teams (Similarity: 0.4301)
+ - composition (Similarity: 0.4121)
+ - passing (Similarity: 0.4064)
+ - possible (Similarity: 0.4036)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> amit (Similarity: 0.4595)
+ -> kirankumar (Similarity: 0.4557)
+ -> joined (Similarity: 0.4429)
+Analogy: student : hostel :: faculty : ?
+ -> iitj (Similarity: 0.4927)
+ -> faculties (Similarity: 0.4583)
+ -> ebsb (Similarity: 0.4344)
+Analogy: culture : ignus :: sports : ?
+ -> batches (Similarity: 0.5745)
+ -> grounds (Similarity: 0.4578)
+ -> swarm (Similarity: 0.4416)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim50_win5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - gineering (Similarity: 0.5529)
+ - cybersecurity (Similarity: 0.4423)
+ - approach (Similarity: 0.4211)
+ - mishra (Similarity: 0.4163)
+ - ad (Similarity: 0.4092)
+
+Top 5 nearest neighbors for 'student':
+ - received (Similarity: 0.6991)
+ - candidates (Similarity: 0.4678)
+ - include (Similarity: 0.4240)
+ - causal (Similarity: 0.4115)
+ - close (Similarity: 0.4047)
+
+Top 5 nearest neighbors for 'phd':
+ - regular (Similarity: 0.4381)
+ - endowment (Similarity: 0.4142)
+ - pallavi (Similarity: 0.4046)
+ - maximum (Similarity: 0.4045)
+ - liberal (Similarity: 0.4044)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> lemma (Similarity: 0.5091)
+ -> ongoing (Similarity: 0.4633)
+ -> decided (Similarity: 0.4319)
+Analogy: student : hostel :: faculty : ?
+ -> light (Similarity: 0.4859)
+ -> schools (Similarity: 0.4724)
+ -> scheduled (Similarity: 0.3999)
+Analogy: culture : ignus :: sports : ?
+ -> robotics (Similarity: 0.4857)
+ -> showcased (Similarity: 0.4195)
+ -> domain (Similarity: 0.4144)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim50_win8.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - young (Similarity: 0.5180)
+ - strategy (Similarity: 0.4465)
+ - classes (Similarity: 0.4400)
+ - room (Similarity: 0.4279)
+ - organisations (Similarity: 0.3992)
+
+Top 5 nearest neighbors for 'student':
+ - arrays (Similarity: 0.4663)
+ - gishan (Similarity: 0.4558)
+ - held (Similarity: 0.4267)
+ - reconstruction (Similarity: 0.4241)
+ - new (Similarity: 0.4237)
+
+Top 5 nearest neighbors for 'phd':
+ - sanadhya (Similarity: 0.3942)
+ - pallavi (Similarity: 0.3928)
+ - theorem (Similarity: 0.3908)
+ - spectral (Similarity: 0.3906)
+ - critically (Similarity: 0.3857)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> evolutionary (Similarity: 0.4242)
+ -> increasing (Similarity: 0.3938)
+ -> ventures (Similarity: 0.3868)
+Analogy: student : hostel :: faculty : ?
+ -> boards (Similarity: 0.4442)
+ -> guide (Similarity: 0.4436)
+ -> ethical (Similarity: 0.4413)
+Analogy: culture : ignus :: sports : ?
+ -> competition (Similarity: 0.5482)
+ -> capacity (Similarity: 0.4888)
+ -> inspire (Similarity: 0.4579)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim100_win2.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - upcoming (Similarity: 0.3499)
+ - startups (Similarity: 0.2980)
+ - meritorious (Similarity: 0.2969)
+ - exhibition (Similarity: 0.2914)
+ - aerospace (Similarity: 0.2826)
+
+Top 5 nearest neighbors for 'student':
+ - likelihood (Similarity: 0.3430)
+ - skills (Similarity: 0.3176)
+ - candidacy (Similarity: 0.3165)
+ - scholar (Similarity: 0.2911)
+ - narwaria (Similarity: 0.2827)
+
+Top 5 nearest neighbors for 'phd':
+ - focuses (Similarity: 0.3568)
+ - cumulative (Similarity: 0.3338)
+ - residence (Similarity: 0.3306)
+ - soumava (Similarity: 0.3205)
+ - flexible (Similarity: 0.3164)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> entrepreneurial (Similarity: 0.3005)
+ -> recommended (Similarity: 0.2946)
+ -> formal (Similarity: 0.2919)
+Analogy: student : hostel :: faculty : ?
+ -> way (Similarity: 0.3644)
+ -> share (Similarity: 0.3097)
+ -> centres (Similarity: 0.3053)
+Analogy: culture : ignus :: sports : ?
+ -> ordering (Similarity: 0.3547)
+ -> schemes (Similarity: 0.3347)
+ -> astrophysics (Similarity: 0.3339)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim100_win5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - concepts (Similarity: 0.3257)
+ - improvement (Similarity: 0.3088)
+ - ews (Similarity: 0.3083)
+ - coding (Similarity: 0.2955)
+ - dialogue (Similarity: 0.2937)
+
+Top 5 nearest neighbors for 'student':
+ - scholar (Similarity: 0.4337)
+ - received (Similarity: 0.3645)
+ - students (Similarity: 0.3198)
+ - aa (Similarity: 0.3122)
+ - analyze (Similarity: 0.3022)
+
+Top 5 nearest neighbors for 'phd':
+ - recurrent (Similarity: 0.3304)
+ - endowment (Similarity: 0.3057)
+ - documents (Similarity: 0.2997)
+ - recording (Similarity: 0.2994)
+ - face (Similarity: 0.2983)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> hub (Similarity: 0.3576)
+ -> functionality (Similarity: 0.3500)
+ -> defined (Similarity: 0.2962)
+Analogy: student : hostel :: faculty : ?
+ -> ƚž (Similarity: 0.3707)
+ -> mukhopadhyay (Similarity: 0.3701)
+ -> gale (Similarity: 0.3552)
+Analogy: culture : ignus :: sports : ?
+ -> prakriti (Similarity: 0.3312)
+ -> jee (Similarity: 0.3177)
+ -> viii (Similarity: 0.3164)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim100_win8.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - partial (Similarity: 0.3449)
+ - organisations (Similarity: 0.3290)
+ - percom (Similarity: 0.3211)
+ - rural (Similarity: 0.3101)
+ - ancient (Similarity: 0.3065)
+
+Top 5 nearest neighbors for 'student':
+ - appropriate (Similarity: 0.3384)
+ - micro (Similarity: 0.3383)
+ - scholar (Similarity: 0.3378)
+ - members (Similarity: 0.3328)
+ - strong (Similarity: 0.3298)
+
+Top 5 nearest neighbors for 'phd':
+ - amit (Similarity: 0.3055)
+ - x (Similarity: 0.3037)
+ - rajendra (Similarity: 0.3032)
+ - interest (Similarity: 0.2998)
+ - secondary (Similarity: 0.2925)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> cluster (Similarity: 0.3905)
+ -> goal (Similarity: 0.3365)
+ -> core (Similarity: 0.3121)
+Analogy: student : hostel :: faculty : ?
+ -> preeti (Similarity: 0.3484)
+ -> ctfp (Similarity: 0.3322)
+ -> met (Similarity: 0.3254)
+Analogy: culture : ignus :: sports : ?
+ -> bronze (Similarity: 0.4146)
+ -> geometry (Similarity: 0.4086)
+ -> contribute (Similarity: 0.3634)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim300_win2.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - leave (Similarity: 0.1990)
+ - setup (Similarity: 0.1971)
+ - indexing (Similarity: 0.1954)
+ - upcoming (Similarity: 0.1932)
+ - budget (Similarity: 0.1902)
+
+Top 5 nearest neighbors for 'student':
+ - deterministic (Similarity: 0.2036)
+ - period (Similarity: 0.1968)
+ - workplace (Similarity: 0.1895)
+ - discrimination (Similarity: 0.1844)
+ - sme (Similarity: 0.1844)
+
+Top 5 nearest neighbors for 'phd':
+ - unsatisfactory (Similarity: 0.2345)
+ - pertaining (Similarity: 0.2055)
+ - possible (Similarity: 0.2030)
+ - launched (Similarity: 0.2001)
+ - achievements (Similarity: 0.1968)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> dean (Similarity: 0.2242)
+ -> undergraduate (Similarity: 0.1934)
+ -> break (Similarity: 0.1892)
+Analogy: student : hostel :: faculty : ?
+ -> nominate (Similarity: 0.2470)
+ -> inducted (Similarity: 0.2127)
+ -> rani (Similarity: 0.2062)
+Analogy: culture : ignus :: sports : ?
+ -> authority (Similarity: 0.1998)
+ -> secondary (Similarity: 0.1797)
+ -> opportunities (Similarity: 0.1767)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim300_win5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - ƚśğ (Similarity: 0.2663)
+ - endowment (Similarity: 0.2613)
+ - improvement (Similarity: 0.1984)
+ - wise (Similarity: 0.1982)
+ - strengthening (Similarity: 0.1924)
+
+Top 5 nearest neighbors for 'student':
+ - scholar (Similarity: 0.2992)
+ - students (Similarity: 0.2940)
+ - appointment (Similarity: 0.2556)
+ - court (Similarity: 0.2125)
+ - q (Similarity: 0.2117)
+
+Top 5 nearest neighbors for 'phd':
+ - xxxxx (Similarity: 0.1846)
+ - coordinators (Similarity: 0.1839)
+ - batch (Similarity: 0.1838)
+ - planning (Similarity: 0.1834)
+ - upto (Similarity: 0.1791)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> dean (Similarity: 0.2477)
+ -> autonomous (Similarity: 0.2218)
+ -> graduation (Similarity: 0.2133)
+Analogy: student : hostel :: faculty : ?
+ -> srivastava (Similarity: 0.2367)
+ -> library (Similarity: 0.2295)
+ -> develops (Similarity: 0.1973)
+Analogy: culture : ignus :: sports : ?
+ -> institution (Similarity: 0.1908)
+ -> seeks (Similarity: 0.1904)
+ -> stakeholders (Similarity: 0.1832)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\cbow_dim300_win8.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - nm (Similarity: 0.2142)
+ - positions (Similarity: 0.2074)
+ - organisations (Similarity: 0.2060)
+ - labs (Similarity: 0.1995)
+ - blend (Similarity: 0.1944)
+
+Top 5 nearest neighbors for 'student':
+ - scholar (Similarity: 0.2527)
+ - approved (Similarity: 0.2437)
+ - sanctioned (Similarity: 0.2392)
+ - students (Similarity: 0.2340)
+ - chairma (Similarity: 0.2317)
+
+Top 5 nearest neighbors for 'phd':
+ - btech (Similarity: 0.2640)
+ - xi (Similarity: 0.2027)
+ - organic (Similarity: 0.1975)
+ - awards (Similarity: 0.1892)
+ - australia (Similarity: 0.1823)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> advisors (Similarity: 0.2122)
+ -> visit (Similarity: 0.2087)
+ -> possible (Similarity: 0.2004)
+Analogy: student : hostel :: faculty : ?
+ -> exempted (Similarity: 0.2450)
+ -> xi (Similarity: 0.2414)
+ -> body (Similarity: 0.2401)
+Analogy: culture : ignus :: sports : ?
+ -> celebration (Similarity: 0.2265)
+ -> community (Similarity: 0.2220)
+ -> convocation (Similarity: 0.2172)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\cbow_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win2_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - areas (Similarity: 0.6300)
+ - interdisciplinary (Similarity: 0.5477)
+ - demonstrates (Similarity: 0.5326)
+ - translational (Similarity: 0.5298)
+ - industrial (Similarity: 0.5162)
+
+Top 5 nearest neighbors for 'student':
+ - request (Similarity: 0.5232)
+ - completed (Similarity: 0.4864)
+ - form (Similarity: 0.4832)
+ - earlier (Similarity: 0.4748)
+ - submit (Similarity: 0.4712)
+
+Top 5 nearest neighbors for 'phd':
+ - mtech (Similarity: 0.4676)
+ - microsoft (Similarity: 0.4660)
+ - offered (Similarity: 0.4644)
+ - scholar (Similarity: 0.4626)
+ - avail (Similarity: 0.4405)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.5995)
+ -> specialization (Similarity: 0.5066)
+ -> minor (Similarity: 0.5026)
+Analogy: student : hostel :: faculty : ?
+ -> xv (Similarity: 0.5097)
+ -> deputy (Similarity: 0.4984)
+ -> staff (Similarity: 0.4900)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6870)
+ -> inter (Similarity: 0.6116)
+ -> poster (Similarity: 0.5861)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win2_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - excellence (Similarity: 0.5332)
+ - interdisciplinary (Similarity: 0.5007)
+ - areas (Similarity: 0.4612)
+ - published (Similarity: 0.4330)
+ - academic (Similarity: 0.4322)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.5524)
+ - extra (Similarity: 0.5004)
+ - travel (Similarity: 0.4951)
+ - propose (Similarity: 0.4896)
+ - granted (Similarity: 0.4786)
+
+Top 5 nearest neighbors for 'phd':
+ - google (Similarity: 0.5031)
+ - rani (Similarity: 0.4920)
+ - itep (Similarity: 0.4640)
+ - tuhina (Similarity: 0.4631)
+ - navigating (Similarity: 0.4553)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.6258)
+ -> dual (Similarity: 0.5833)
+ -> mtech (Similarity: 0.5582)
+Analogy: student : hostel :: faculty : ?
+ -> way (Similarity: 0.4802)
+ -> ministry (Similarity: 0.4794)
+ -> added (Similarity: 0.4786)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6902)
+ -> secured (Similarity: 0.5735)
+ -> band (Similarity: 0.5326)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win2_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - interdisciplinary (Similarity: 0.5495)
+ - areas (Similarity: 0.5166)
+ - visibility (Similarity: 0.5142)
+ - translational (Similarity: 0.5038)
+ - demonstrates (Similarity: 0.4756)
+
+Top 5 nearest neighbors for 'student':
+ - allowed (Similarity: 0.5920)
+ - probation (Similarity: 0.5162)
+ - request (Similarity: 0.4931)
+ - completion (Similarity: 0.4891)
+ - avail (Similarity: 0.4822)
+
+Top 5 nearest neighbors for 'phd':
+ - admissions (Similarity: 0.4873)
+ - mandal (Similarity: 0.4803)
+ - itep (Similarity: 0.4604)
+ - tuhina (Similarity: 0.4487)
+ - includes (Similarity: 0.4457)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.5378)
+ -> mba (Similarity: 0.5131)
+ -> identifying (Similarity: 0.4490)
+Analogy: student : hostel :: faculty : ?
+ -> celebration (Similarity: 0.5039)
+ -> akash (Similarity: 0.4765)
+ -> competitions (Similarity: 0.4747)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6941)
+ -> badminton (Similarity: 0.6377)
+ -> band (Similarity: 0.6056)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win5_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - defense (Similarity: 0.5712)
+ - innovation (Similarity: 0.5475)
+ - areas (Similarity: 0.5029)
+ - industrial (Similarity: 0.5024)
+ - advancing (Similarity: 0.4828)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.5076)
+ - travel (Similarity: 0.4791)
+ - completed (Similarity: 0.4706)
+ - cgpa (Similarity: 0.4691)
+ - months (Similarity: 0.4640)
+
+Top 5 nearest neighbors for 'phd':
+ - itep (Similarity: 0.4824)
+ - shukla (Similarity: 0.4807)
+ - offered (Similarity: 0.4664)
+ - buffalo (Similarity: 0.4413)
+ - scholar (Similarity: 0.4396)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> booklet (Similarity: 0.5562)
+ -> mtech (Similarity: 0.5496)
+ -> mba (Similarity: 0.5258)
+Analogy: student : hostel :: faculty : ?
+ -> organizes (Similarity: 0.5530)
+ -> affairs (Similarity: 0.5214)
+ -> camps (Similarity: 0.5044)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.7580)
+ -> meet (Similarity: 0.6507)
+ -> badminton (Similarity: 0.6220)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win5_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - new (Similarity: 0.4457)
+ - interdisciplinary (Similarity: 0.4344)
+ - outreach (Similarity: 0.4325)
+ - cutting (Similarity: 0.4312)
+ - projects (Similarity: 0.4300)
+
+Top 5 nearest neighbors for 'student':
+ - candidate (Similarity: 0.5383)
+ - shall (Similarity: 0.5119)
+ - registered (Similarity: 0.5063)
+ - academic (Similarity: 0.4966)
+ - representative (Similarity: 0.4882)
+
+Top 5 nearest neighbors for 'phd':
+ - offers (Similarity: 0.5329)
+ - itep (Similarity: 0.4883)
+ - nano (Similarity: 0.4782)
+ - type (Similarity: 0.4548)
+ - offered (Similarity: 0.4508)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.6102)
+ -> mba (Similarity: 0.5920)
+ -> offered (Similarity: 0.5150)
+Analogy: student : hostel :: faculty : ?
+ -> sports (Similarity: 0.6096)
+ -> staff (Similarity: 0.5655)
+ -> organizes (Similarity: 0.5381)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6463)
+ -> secured (Similarity: 0.5771)
+ -> tennis (Similarity: 0.5591)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win5_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - areas (Similarity: 0.5627)
+ - innovation (Similarity: 0.5138)
+ - excellence (Similarity: 0.4992)
+ - teaching (Similarity: 0.4883)
+ - expertise (Similarity: 0.4569)
+
+Top 5 nearest neighbors for 'student':
+ - allowed (Similarity: 0.5613)
+ - shall (Similarity: 0.5593)
+ - fellowship (Similarity: 0.4800)
+ - till (Similarity: 0.4696)
+ - earlier (Similarity: 0.4672)
+
+Top 5 nearest neighbors for 'phd':
+ - offered (Similarity: 0.5787)
+ - mtech (Similarity: 0.4969)
+ - prerequisite (Similarity: 0.4759)
+ - tech (Similarity: 0.4513)
+ - meritorious (Similarity: 0.4300)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.5957)
+ -> offered (Similarity: 0.5756)
+ -> artificial (Similarity: 0.5655)
+Analogy: student : hostel :: faculty : ?
+ -> staff (Similarity: 0.5680)
+ -> organized (Similarity: 0.5403)
+ -> members (Similarity: 0.5385)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6224)
+ -> festival (Similarity: 0.6185)
+ -> football (Similarity: 0.6179)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win8_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - innovation (Similarity: 0.5477)
+ - focus (Similarity: 0.5301)
+ - cutting (Similarity: 0.5254)
+ - areas (Similarity: 0.5061)
+ - projects (Similarity: 0.4773)
+
+Top 5 nearest neighbors for 'student':
+ - candidate (Similarity: 0.5847)
+ - shall (Similarity: 0.5558)
+ - submit (Similarity: 0.5335)
+ - registered (Similarity: 0.4998)
+ - dean (Similarity: 0.4872)
+
+Top 5 nearest neighbors for 'phd':
+ - shukla (Similarity: 0.4815)
+ - batteries (Similarity: 0.4442)
+ - offered (Similarity: 0.4287)
+ - dixit (Similarity: 0.4079)
+ - grant (Similarity: 0.3973)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.4850)
+ -> specializations (Similarity: 0.4645)
+ -> philosophy (Similarity: 0.4643)
+Analogy: student : hostel :: faculty : ?
+ -> representatives (Similarity: 0.5259)
+ -> addresses (Similarity: 0.4972)
+ -> organizes (Similarity: 0.4956)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.8028)
+ -> badminton (Similarity: 0.6733)
+ -> competition (Similarity: 0.6399)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win8_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - essential (Similarity: 0.5119)
+ - innovation (Similarity: 0.4978)
+ - areas (Similarity: 0.4785)
+ - allied (Similarity: 0.4643)
+ - demonstrates (Similarity: 0.4626)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.5932)
+ - general (Similarity: 0.5783)
+ - extra (Similarity: 0.5345)
+ - earlier (Similarity: 0.5313)
+ - till (Similarity: 0.5247)
+
+Top 5 nearest neighbors for 'phd':
+ - offered (Similarity: 0.5298)
+ - shukla (Similarity: 0.5078)
+ - buffalo (Similarity: 0.4987)
+ - type (Similarity: 0.4815)
+ - grant (Similarity: 0.4797)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> expose (Similarity: 0.5040)
+ -> mba (Similarity: 0.4910)
+ -> mtech (Similarity: 0.4853)
+Analogy: student : hostel :: faculty : ?
+ -> inaugurated (Similarity: 0.5425)
+ -> representatives (Similarity: 0.4792)
+ -> affairs (Similarity: 0.4788)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.7888)
+ -> participated (Similarity: 0.6502)
+ -> bronze (Similarity: 0.6326)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim50_win8_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - areas (Similarity: 0.5211)
+ - innovation (Similarity: 0.4949)
+ - excellence (Similarity: 0.4812)
+ - reforms (Similarity: 0.4356)
+ - papers (Similarity: 0.4303)
+
+Top 5 nearest neighbors for 'student':
+ - till (Similarity: 0.5547)
+ - candidate (Similarity: 0.5380)
+ - completed (Similarity: 0.5368)
+ - academic (Similarity: 0.5219)
+ - shall (Similarity: 0.5074)
+
+Top 5 nearest neighbors for 'phd':
+ - mtech (Similarity: 0.5189)
+ - tech (Similarity: 0.5177)
+ - prerequisite (Similarity: 0.5078)
+ - expose (Similarity: 0.4961)
+ - pursuing (Similarity: 0.4707)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.6248)
+ -> mtech (Similarity: 0.5948)
+ -> doctor (Similarity: 0.5737)
+Analogy: student : hostel :: faculty : ?
+ -> staff (Similarity: 0.5107)
+ -> members (Similarity: 0.5083)
+ -> badminton (Similarity: 0.5029)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.8129)
+ -> football (Similarity: 0.7055)
+ -> badminton (Similarity: 0.6809)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win2_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - translational (Similarity: 0.4418)
+ - career (Similarity: 0.4198)
+ - interdisciplinary (Similarity: 0.3999)
+ - focus (Similarity: 0.3902)
+ - pioneering (Similarity: 0.3855)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.4962)
+ - aggrieved (Similarity: 0.4631)
+ - activities (Similarity: 0.3766)
+ - admitted (Similarity: 0.3708)
+ - candidate (Similarity: 0.3641)
+
+Top 5 nearest neighbors for 'phd':
+ - scholar (Similarity: 0.4180)
+ - rani (Similarity: 0.4103)
+ - navigating (Similarity: 0.3816)
+ - mtech (Similarity: 0.3780)
+ - moumita (Similarity: 0.3656)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.5326)
+ -> bb (Similarity: 0.4745)
+ -> oe (Similarity: 0.4358)
+Analogy: student : hostel :: faculty : ?
+ -> came (Similarity: 0.4429)
+ -> editorial (Similarity: 0.3974)
+ -> read (Similarity: 0.3780)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.5871)
+ -> poster (Similarity: 0.5281)
+ -> sangam (Similarity: 0.4743)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win2_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - areas (Similarity: 0.4868)
+ - interdisciplinary (Similarity: 0.4567)
+ - translational (Similarity: 0.4096)
+ - innovation (Similarity: 0.3843)
+ - mcoenssr (Similarity: 0.3807)
+
+Top 5 nearest neighbors for 'student':
+ - earlier (Similarity: 0.4687)
+ - completes (Similarity: 0.3904)
+ - produce (Similarity: 0.3753)
+ - additional (Similarity: 0.3751)
+ - allowed (Similarity: 0.3723)
+
+Top 5 nearest neighbors for 'phd':
+ - fellowships (Similarity: 0.4468)
+ - scholar (Similarity: 0.4467)
+ - academy (Similarity: 0.4210)
+ - shahab (Similarity: 0.4167)
+ - angshuman (Similarity: 0.4008)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> ih (Similarity: 0.4768)
+ -> mtech (Similarity: 0.4754)
+ -> oe (Similarity: 0.4198)
+Analogy: student : hostel :: faculty : ?
+ -> competitions (Similarity: 0.4676)
+ -> navratri (Similarity: 0.4342)
+ -> celebration (Similarity: 0.4131)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.5434)
+ -> poster (Similarity: 0.5002)
+ -> badminton (Similarity: 0.4965)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win2_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - areas (Similarity: 0.4284)
+ - pioneering (Similarity: 0.4116)
+ - sleep (Similarity: 0.4083)
+ - visibility (Similarity: 0.4037)
+ - interdisciplinary (Similarity: 0.3861)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.4661)
+ - registered (Similarity: 0.4137)
+ - supervisors (Similarity: 0.4112)
+ - attendance (Similarity: 0.3942)
+ - travel (Similarity: 0.3785)
+
+Top 5 nearest neighbors for 'phd':
+ - rani (Similarity: 0.4849)
+ - tuhina (Similarity: 0.4813)
+ - funded (Similarity: 0.4020)
+ - sahoo (Similarity: 0.3778)
+ - narayanan (Similarity: 0.3663)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.5272)
+ -> minor (Similarity: 0.4409)
+ -> omics (Similarity: 0.4399)
+Analogy: student : hostel :: faculty : ?
+ -> provides (Similarity: 0.4641)
+ -> enriching (Similarity: 0.4406)
+ -> fee (Similarity: 0.4370)
+Analogy: culture : ignus :: sports : ?
+ -> quiz (Similarity: 0.5286)
+ -> fest (Similarity: 0.5023)
+ -> badminton (Similarity: 0.4663)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win5_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - published (Similarity: 0.4488)
+ - areas (Similarity: 0.3779)
+ - focus (Similarity: 0.3647)
+ - highlights (Similarity: 0.3474)
+ - innovation (Similarity: 0.3446)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.4365)
+ - candidate (Similarity: 0.3930)
+ - earlier (Similarity: 0.3768)
+ - acac (Similarity: 0.3677)
+ - examination (Similarity: 0.3602)
+
+Top 5 nearest neighbors for 'phd':
+ - type (Similarity: 0.4704)
+ - bimal (Similarity: 0.3671)
+ - shukla (Similarity: 0.3627)
+ - mtech (Similarity: 0.3615)
+ - satyajit (Similarity: 0.3600)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> prerequisite (Similarity: 0.4456)
+ -> mtech (Similarity: 0.4433)
+ -> mba (Similarity: 0.4087)
+Analogy: student : hostel :: faculty : ?
+ -> staff (Similarity: 0.4583)
+ -> sports (Similarity: 0.4238)
+ -> competitive (Similarity: 0.3989)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6335)
+ -> medal (Similarity: 0.5079)
+ -> football (Similarity: 0.5010)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win5_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - facilities (Similarity: 0.4218)
+ - publications (Similarity: 0.3502)
+ - areas (Similarity: 0.3488)
+ - innovation (Similarity: 0.3355)
+ - excellence (Similarity: 0.3333)
+
+Top 5 nearest neighbors for 'student':
+ - academic (Similarity: 0.4055)
+ - registered (Similarity: 0.3736)
+ - program (Similarity: 0.3615)
+ - years (Similarity: 0.3557)
+ - achievements (Similarity: 0.3540)
+
+Top 5 nearest neighbors for 'phd':
+ - jyoti (Similarity: 0.3833)
+ - type (Similarity: 0.3709)
+ - offered (Similarity: 0.3623)
+ - scholar (Similarity: 0.3540)
+ - meenu (Similarity: 0.3426)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> statistics (Similarity: 0.3865)
+ -> mba (Similarity: 0.3831)
+ -> prerequisite (Similarity: 0.3720)
+Analogy: student : hostel :: faculty : ?
+ -> welfare (Similarity: 0.4759)
+ -> societies (Similarity: 0.4389)
+ -> participated (Similarity: 0.4224)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6639)
+ -> football (Similarity: 0.5861)
+ -> badminton (Similarity: 0.5302)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win5_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - innovation (Similarity: 0.3911)
+ - collaborations (Similarity: 0.3869)
+ - work (Similarity: 0.3832)
+ - partnerships (Similarity: 0.3797)
+ - consist (Similarity: 0.3779)
+
+Top 5 nearest neighbors for 'student':
+ - academic (Similarity: 0.5255)
+ - shall (Similarity: 0.4890)
+ - overall (Similarity: 0.4447)
+ - senate (Similarity: 0.4120)
+ - appeal (Similarity: 0.3732)
+
+Top 5 nearest neighbors for 'phd':
+ - mtech (Similarity: 0.4439)
+ - type (Similarity: 0.4108)
+ - doctoral (Similarity: 0.3890)
+ - tuhina (Similarity: 0.3776)
+ - shukla (Similarity: 0.3738)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.4270)
+ -> dependable (Similarity: 0.3961)
+ -> prerequisite (Similarity: 0.3835)
+Analogy: student : hostel :: faculty : ?
+ -> navratri (Similarity: 0.4409)
+ -> came (Similarity: 0.4198)
+ -> organized (Similarity: 0.4024)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6557)
+ -> football (Similarity: 0.5391)
+ -> tennis (Similarity: 0.5147)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win8_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - interdisciplinary (Similarity: 0.4207)
+ - areas (Similarity: 0.4154)
+ - cutting (Similarity: 0.3718)
+ - thrust (Similarity: 0.3680)
+ - demonstrates (Similarity: 0.3603)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.4522)
+ - till (Similarity: 0.4418)
+ - committee (Similarity: 0.3684)
+ - register (Similarity: 0.3666)
+ - given (Similarity: 0.3564)
+
+Top 5 nearest neighbors for 'phd':
+ - type (Similarity: 0.4130)
+ - tuhina (Similarity: 0.3646)
+ - engineering (Similarity: 0.3596)
+ - narayanan (Similarity: 0.3500)
+ - shukla (Similarity: 0.3489)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> offered (Similarity: 0.4114)
+ -> prerequisite (Similarity: 0.4080)
+ -> branches (Similarity: 0.4017)
+Analogy: student : hostel :: faculty : ?
+ -> ignus (Similarity: 0.4278)
+ -> park (Similarity: 0.3889)
+ -> xvii (Similarity: 0.3784)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.7046)
+ -> football (Similarity: 0.5466)
+ -> meet (Similarity: 0.4650)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win8_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - innovation (Similarity: 0.3658)
+ - art (Similarity: 0.3619)
+ - areas (Similarity: 0.3616)
+ - translational (Similarity: 0.3451)
+ - focus (Similarity: 0.3429)
+
+Top 5 nearest neighbors for 'student':
+ - registered (Similarity: 0.4090)
+ - assigned (Similarity: 0.4017)
+ - batteries (Similarity: 0.3691)
+ - shall (Similarity: 0.3638)
+ - completion (Similarity: 0.3579)
+
+Top 5 nearest neighbors for 'phd':
+ - european (Similarity: 0.4063)
+ - nano (Similarity: 0.3840)
+ - batteries (Similarity: 0.3734)
+ - expose (Similarity: 0.3703)
+ - bimal (Similarity: 0.3584)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> offered (Similarity: 0.4601)
+ -> mba (Similarity: 0.4213)
+ -> engineering (Similarity: 0.4198)
+Analogy: student : hostel :: faculty : ?
+ -> xvii (Similarity: 0.4667)
+ -> boards (Similarity: 0.4129)
+ -> presidents (Similarity: 0.4001)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.6941)
+ -> badminton (Similarity: 0.5769)
+ -> tennis (Similarity: 0.5628)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim100_win8_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - areas (Similarity: 0.4045)
+ - collaborations (Similarity: 0.3874)
+ - outreach (Similarity: 0.3586)
+ - offer (Similarity: 0.3425)
+ - infrastructure (Similarity: 0.3418)
+
+Top 5 nearest neighbors for 'student':
+ - candidate (Similarity: 0.4218)
+ - shall (Similarity: 0.3749)
+ - attend (Similarity: 0.3649)
+ - appeal (Similarity: 0.3520)
+ - institute (Similarity: 0.3488)
+
+Top 5 nearest neighbors for 'phd':
+ - puneet (Similarity: 0.3703)
+ - expose (Similarity: 0.3535)
+ - objectives (Similarity: 0.3443)
+ - type (Similarity: 0.3335)
+ - chhabra (Similarity: 0.3308)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.4971)
+ -> mtech (Similarity: 0.4656)
+ -> offers (Similarity: 0.4288)
+Analogy: student : hostel :: faculty : ?
+ -> office (Similarity: 0.4453)
+ -> xv (Similarity: 0.4331)
+ -> representatives (Similarity: 0.4134)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.5638)
+ -> football (Similarity: 0.4586)
+ -> bronze (Similarity: 0.4426)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win2_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - visibility (Similarity: 0.2961)
+ - defence (Similarity: 0.2929)
+ - translational (Similarity: 0.2891)
+ - areas (Similarity: 0.2847)
+ - demonstrates (Similarity: 0.2467)
+
+Top 5 nearest neighbors for 'student':
+ - coordinators (Similarity: 0.2682)
+ - allowed (Similarity: 0.2647)
+ - attendance (Similarity: 0.2639)
+ - enrolled (Similarity: 0.2617)
+ - cgpa (Similarity: 0.2602)
+
+Top 5 nearest neighbors for 'phd':
+ - ansari (Similarity: 0.3721)
+ - scholar (Similarity: 0.3360)
+ - meritorious (Similarity: 0.3052)
+ - academy (Similarity: 0.2969)
+ - rani (Similarity: 0.2957)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.3964)
+ -> minor (Similarity: 0.2970)
+ -> tech (Similarity: 0.2934)
+Analogy: student : hostel :: faculty : ?
+ -> came (Similarity: 0.3760)
+ -> read (Similarity: 0.3679)
+ -> august (Similarity: 0.3317)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.4874)
+ -> band (Similarity: 0.4079)
+ -> participated (Similarity: 0.3605)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win2_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - interdisciplinary (Similarity: 0.2776)
+ - pioneering (Similarity: 0.2609)
+ - scpgc (Similarity: 0.2516)
+ - growth (Similarity: 0.2477)
+ - demonstrates (Similarity: 0.2476)
+
+Top 5 nearest neighbors for 'student':
+ - completes (Similarity: 0.3166)
+ - shall (Similarity: 0.2889)
+ - attendance (Similarity: 0.2706)
+ - allowed (Similarity: 0.2616)
+ - qualifier (Similarity: 0.2616)
+
+Top 5 nearest neighbors for 'phd':
+ - graduation (Similarity: 0.3056)
+ - masters (Similarity: 0.2771)
+ - das (Similarity: 0.2770)
+ - convocation (Similarity: 0.2720)
+ - fellowships (Similarity: 0.2623)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mtech (Similarity: 0.3525)
+ -> offered (Similarity: 0.2926)
+ -> mba (Similarity: 0.2900)
+Analogy: student : hostel :: faculty : ?
+ -> ffairs (Similarity: 0.3855)
+ -> competitions (Similarity: 0.3277)
+ -> tuition (Similarity: 0.3208)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.4518)
+ -> band (Similarity: 0.3994)
+ -> inter (Similarity: 0.3818)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win2_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - signiﬁcant (Similarity: 0.2520)
+ - innovation (Similarity: 0.2370)
+ - mcoenssr (Similarity: 0.2240)
+ - themes (Similarity: 0.2232)
+ - academy (Similarity: 0.2175)
+
+Top 5 nearest neighbors for 'student':
+ - assistantship (Similarity: 0.2977)
+ - appeal (Similarity: 0.2940)
+ - genuine (Similarity: 0.2905)
+ - affairs (Similarity: 0.2834)
+ - shall (Similarity: 0.2738)
+
+Top 5 nearest neighbors for 'phd':
+ - navigating (Similarity: 0.3588)
+ - researcher (Similarity: 0.3491)
+ - ansari (Similarity: 0.3092)
+ - sahoo (Similarity: 0.3089)
+ - pursuing (Similarity: 0.3021)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.3450)
+ -> type (Similarity: 0.3235)
+ -> minor (Similarity: 0.3114)
+Analogy: student : hostel :: faculty : ?
+ -> ceremony (Similarity: 0.4098)
+ -> vice (Similarity: 0.3556)
+ -> park (Similarity: 0.3078)
+Analogy: culture : ignus :: sports : ?
+ -> quiz (Similarity: 0.4683)
+ -> fest (Similarity: 0.4388)
+ -> gold (Similarity: 0.3718)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win5_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - sigs (Similarity: 0.2902)
+ - mcoenssr (Similarity: 0.2488)
+ - cutting (Similarity: 0.2474)
+ - translational (Similarity: 0.2444)
+ - idrd (Similarity: 0.2438)
+
+Top 5 nearest neighbors for 'student':
+ - request (Similarity: 0.2713)
+ - qualifier (Similarity: 0.2492)
+ - normal (Similarity: 0.2476)
+ - rka (Similarity: 0.2471)
+ - iv (Similarity: 0.2322)
+
+Top 5 nearest neighbors for 'phd':
+ - booklet (Similarity: 0.3068)
+ - shukla (Similarity: 0.2799)
+ - offered (Similarity: 0.2658)
+ - shock (Similarity: 0.2639)
+ - stem (Similarity: 0.2564)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.3299)
+ -> follows (Similarity: 0.3009)
+ -> prerequisite (Similarity: 0.2743)
+Analogy: student : hostel :: faculty : ?
+ -> fest (Similarity: 0.3187)
+ -> nt (Similarity: 0.3150)
+ -> works (Similarity: 0.3069)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.4656)
+ -> tennis (Similarity: 0.3535)
+ -> bronze (Similarity: 0.3489)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win5_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - state (Similarity: 0.2875)
+ - teaching (Similarity: 0.2702)
+ - focus (Similarity: 0.2475)
+ - aerospace (Similarity: 0.2395)
+ - areas (Similarity: 0.2375)
+
+Top 5 nearest neighbors for 'student':
+ - shall (Similarity: 0.3376)
+ - specified (Similarity: 0.3300)
+ - irc (Similarity: 0.2599)
+ - candidate (Similarity: 0.2548)
+ - acac (Similarity: 0.2545)
+
+Top 5 nearest neighbors for 'phd':
+ - avail (Similarity: 0.2569)
+ - break (Similarity: 0.2487)
+ - mid (Similarity: 0.2479)
+ - winter (Similarity: 0.2472)
+ - ansari (Similarity: 0.2455)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.3003)
+ -> mtech (Similarity: 0.2800)
+ -> follows (Similarity: 0.2736)
+Analogy: student : hostel :: faculty : ?
+ -> fest (Similarity: 0.3700)
+ -> tuition (Similarity: 0.3585)
+ -> ignus (Similarity: 0.3548)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.5163)
+ -> tennis (Similarity: 0.4801)
+ -> badminton (Similarity: 0.3769)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win5_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - achieve (Similarity: 0.2400)
+ - highlights (Similarity: 0.2363)
+ - wide (Similarity: 0.2336)
+ - demonstrates (Similarity: 0.2290)
+ - scholarly (Similarity: 0.2144)
+
+Top 5 nearest neighbors for 'student':
+ - general (Similarity: 0.2509)
+ - additional (Similarity: 0.2339)
+ - meditation (Similarity: 0.2176)
+ - achievements (Similarity: 0.2156)
+ - particular (Similarity: 0.2064)
+
+Top 5 nearest neighbors for 'phd':
+ - booklet (Similarity: 0.2684)
+ - offered (Similarity: 0.2628)
+ - cete (Similarity: 0.2538)
+ - visiting (Similarity: 0.2510)
+ - graduates (Similarity: 0.2430)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.3889)
+ -> mtech (Similarity: 0.3142)
+ -> supervision (Similarity: 0.2951)
+Analogy: student : hostel :: faculty : ?
+ -> tennis (Similarity: 0.3634)
+ -> pic (Similarity: 0.3520)
+ -> competitive (Similarity: 0.3376)
+Analogy: culture : ignus :: sports : ?
+ -> tennis (Similarity: 0.4391)
+ -> fest (Similarity: 0.4111)
+ -> football (Similarity: 0.3566)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win8_neg5.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - build (Similarity: 0.2762)
+ - dedicated (Similarity: 0.2679)
+ - science (Similarity: 0.2196)
+ - partners (Similarity: 0.2147)
+ - highlights (Similarity: 0.2101)
+
+Top 5 nearest neighbors for 'student':
+ - allowed (Similarity: 0.2680)
+ - assigned (Similarity: 0.2525)
+ - shall (Similarity: 0.2393)
+ - appointed (Similarity: 0.2383)
+ - months (Similarity: 0.2352)
+
+Top 5 nearest neighbors for 'phd':
+ - expose (Similarity: 0.2733)
+ - offered (Similarity: 0.2616)
+ - bimal (Similarity: 0.2336)
+ - tcs (Similarity: 0.2313)
+ - mechanism (Similarity: 0.2294)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> offered (Similarity: 0.2814)
+ -> branches (Similarity: 0.2737)
+ -> mba (Similarity: 0.2657)
+Analogy: student : hostel :: faculty : ?
+ -> presidents (Similarity: 0.3796)
+ -> welfare (Similarity: 0.2885)
+ -> pic (Similarity: 0.2717)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.4726)
+ -> secured (Similarity: 0.4074)
+ -> football (Similarity: 0.3875)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win8_neg10.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - exploring (Similarity: 0.2481)
+ - new (Similarity: 0.2252)
+ - teachers (Similarity: 0.2203)
+ - areas (Similarity: 0.2198)
+ - ongoing (Similarity: 0.2168)
+
+Top 5 nearest neighbors for 'student':
+ - appointed (Similarity: 0.2666)
+ - shall (Similarity: 0.2587)
+ - completed (Similarity: 0.2582)
+ - students (Similarity: 0.2390)
+ - activities (Similarity: 0.2353)
+
+Top 5 nearest neighbors for 'phd':
+ - wastewater (Similarity: 0.2832)
+ - teacher (Similarity: 0.2628)
+ - prerequisite (Similarity: 0.2611)
+ - expose (Similarity: 0.2569)
+ - itep (Similarity: 0.2568)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> msc (Similarity: 0.3613)
+ -> follows (Similarity: 0.3100)
+ -> graded (Similarity: 0.2749)
+Analogy: student : hostel :: faculty : ?
+ -> tennis (Similarity: 0.3036)
+ -> khandelwal (Similarity: 0.3011)
+ -> ffairs (Similarity: 0.2990)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.4980)
+ -> music (Similarity: 0.3930)
+ -> tennis (Similarity: 0.3822)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
+
+========================================
+Evaluating Model: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\models\skipgram_dim300_win8_neg15.pt
+========================================
+
+Top 5 nearest neighbors for 'research':
+ - mitra (Similarity: 0.2397)
+ - metre (Similarity: 0.2342)
+ - papers (Similarity: 0.2321)
+ - visibility (Similarity: 0.2086)
+ - wiley (Similarity: 0.2024)
+
+Top 5 nearest neighbors for 'student':
+ - require (Similarity: 0.2219)
+ - develops (Similarity: 0.2141)
+ - transition (Similarity: 0.2110)
+ - senate (Similarity: 0.2045)
+ - academic (Similarity: 0.2026)
+
+Top 5 nearest neighbors for 'phd':
+ - classical (Similarity: 0.2531)
+ - mtech (Similarity: 0.2401)
+ - bimal (Similarity: 0.2317)
+ - feb (Similarity: 0.2311)
+ - poster (Similarity: 0.2288)
+Word 'exam' not in vocabulary.
+Analogy: ug : btech :: pg : ?
+ -> mba (Similarity: 0.3242)
+ -> minor (Similarity: 0.2965)
+ -> leading (Similarity: 0.2757)
+Analogy: student : hostel :: faculty : ?
+ -> occasion (Similarity: 0.3022)
+ -> celebrations (Similarity: 0.3012)
+ -> absence (Similarity: 0.2958)
+Analogy: culture : ignus :: sports : ?
+ -> fest (Similarity: 0.4937)
+ -> performances (Similarity: 0.3676)
+ -> respectively (Similarity: 0.3592)
+
+Projecting embeddings to 2D using TSNE...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_tsne.png
+
+Projecting embeddings to 2D using PCA...
+Saved visualization to: C:\Users\Acer\OneDrive\Desktop\Pareen\4th Year\Natural Language Understanding\Assignment 2\b22cs038_prob1\outputs\plots\skipgram_pca.png
